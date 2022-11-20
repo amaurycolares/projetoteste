@@ -1,1 +1,3 @@
 Calculo
+Soma
+Subtracao
